@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850719051002",
+    "project_id": "fir-video-streaming-a6a47",
+    "storage_bucket": "fir-video-streaming-a6a47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850719051002:android:3047dd294ef239c6bb4d43",
+        "android_client_info": {
+          "package_name": "com.example.firebasevideostreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850719051002-t4b2ogha08hnmo9viqbb0o9cvbtei0rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp3uH6EUmZUy2waAugr5BLLhRRELHwx7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850719051002-t4b2ogha08hnmo9viqbb0o9cvbtei0rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
